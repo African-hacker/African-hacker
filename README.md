@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @African-hacker
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning basics 
+- 💞️ I’m looking to collaborate on professional 
 - 📫 How to reach me ...
 
 <!---
